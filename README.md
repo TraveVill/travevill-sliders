@@ -14,7 +14,7 @@
 ### Шаг 1:
 Для начала Вам необходимо получить ссылку на созданную Вами (или другим пользователем) html-страницу. 
 Реализованный здесь способ использует GitHub-pages, так что ссылка имеет вид:
-`https://blackjokes.github.io/travevill/*`
+`https://travevill.github.io/travevill-sliders/*`
 Где * — либо нужная вам html-страница, либо дальнейший путь к ней ведущий.<br>
 > **Пример здесь:** https://blackjokes.github.io/travevill/travevill-1/slider.html
 
