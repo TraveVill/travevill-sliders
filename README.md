@@ -20,12 +20,14 @@
 
 ### Шаг 2:
 Функционал слайдеров для teletype.in был реализован мной с помощью iframe-вставки следующего кода на конечную страницу:<br>
-`<iframe`<br>
-`src="https://blackjokes.github.io/travevill/travevill-1/slider.html"`<br>
-`  width="100%"`<br>
-`  height=480"`<br>
-`  style="border:none;"`<br>
-`></iframe>`
+```
+<iframe
+src="https://travevill.github.io/travevill-sliders/travevill-1/slider.html"
+  width="100%"
+  height=480"
+  style="border:none;"
+></iframe>
+```
 
 Далее, на целевой странице остаётся выбрать соотношение сторон 16:9 для вставленной на предыдущем этапе страницы, и Вы получаете следующее:
 
